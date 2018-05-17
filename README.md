@@ -58,7 +58,7 @@ Another neat tool in excel is to highlight specific rows or cells based on value
 6. Go back to conditional formatting and click "Manage Rules"
 7. Under Applies to and select all of your data.
 
-$\underline{Note}$ that the $ sign infront of the I was to fix the equation so that whenever it is copied and adjusted for different cells it will not adjust the I and continue to look at the I column whereas it will adapt and change the 2 since it should be looking at I 3 when considering row 3 and etc. 
+Note that the $ sign infront of the I was to fix the equation so that whenever it is copied and adjusted for different cells it will not adjust the I and continue to look at the I column whereas it will adapt and change the 2 since it should be looking at I 3 when considering row 3 and etc. 
 A neat thing about this function is that if we change one of the values, lets say I 95, to a value that secifies our rule, it will automaticaly change the format of that row. 
 
 ## Macros
