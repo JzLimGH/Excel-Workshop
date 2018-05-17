@@ -1,6 +1,5 @@
 # Excel-Workshop
 The following is a short Excel Workshop intended for UCSD math students to be introduced to some of the many useful functions in Excel
-[TOC]
 ## Files
 The three main types you will generally encounter will be 
 - csv: Comma-seperated values
